@@ -1,0 +1,7 @@
+hector_quadrotor/hector_gazebo_thermal_camera
+/catkin_ws/devel/.private/hector_gazebo_thermal_camera/cmake.lock /catkin_ws/devel/./cmake.lock
+/catkin_ws/devel/.private/hector_gazebo_thermal_camera/lib/libgazebo_ros_thermal_depth_camera.so /catkin_ws/devel/lib/libgazebo_ros_thermal_depth_camera.so
+/catkin_ws/devel/.private/hector_gazebo_thermal_camera/lib/libgazebo_ros_thermal_camera.so /catkin_ws/devel/lib/libgazebo_ros_thermal_camera.so
+/catkin_ws/devel/.private/hector_gazebo_thermal_camera/lib/pkgconfig/hector_gazebo_thermal_camera.pc /catkin_ws/devel/lib/pkgconfig/hector_gazebo_thermal_camera.pc
+/catkin_ws/devel/.private/hector_gazebo_thermal_camera/share/hector_gazebo_thermal_camera/cmake/hector_gazebo_thermal_cameraConfig.cmake /catkin_ws/devel/share/hector_gazebo_thermal_camera/cmake/hector_gazebo_thermal_cameraConfig.cmake
+/catkin_ws/devel/.private/hector_gazebo_thermal_camera/share/hector_gazebo_thermal_camera/cmake/hector_gazebo_thermal_cameraConfig-version.cmake /catkin_ws/devel/share/hector_gazebo_thermal_camera/cmake/hector_gazebo_thermal_cameraConfig-version.cmake

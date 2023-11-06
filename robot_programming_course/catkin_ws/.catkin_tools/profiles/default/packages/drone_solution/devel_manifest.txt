@@ -1,0 +1,5 @@
+drone_solution
+/catkin_ws/devel/.private/drone_solution/cmake.lock /catkin_ws/devel/./cmake.lock
+/catkin_ws/devel/.private/drone_solution/lib/pkgconfig/drone_solution.pc /catkin_ws/devel/lib/pkgconfig/drone_solution.pc
+/catkin_ws/devel/.private/drone_solution/share/drone_solution/cmake/drone_solutionConfig-version.cmake /catkin_ws/devel/share/drone_solution/cmake/drone_solutionConfig-version.cmake
+/catkin_ws/devel/.private/drone_solution/share/drone_solution/cmake/drone_solutionConfig.cmake /catkin_ws/devel/share/drone_solution/cmake/drone_solutionConfig.cmake

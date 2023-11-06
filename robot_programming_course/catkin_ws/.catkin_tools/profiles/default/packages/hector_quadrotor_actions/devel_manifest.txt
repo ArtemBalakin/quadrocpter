@@ -1,0 +1,8 @@
+hector_quadrotor/hector_quadrotor_actions
+/catkin_ws/devel/.private/hector_quadrotor_actions/cmake.lock /catkin_ws/devel/./cmake.lock
+/catkin_ws/devel/.private/hector_quadrotor_actions/lib/hector_quadrotor_actions/takeoff_action /catkin_ws/devel/lib/hector_quadrotor_actions/takeoff_action
+/catkin_ws/devel/.private/hector_quadrotor_actions/lib/hector_quadrotor_actions/landing_action /catkin_ws/devel/lib/hector_quadrotor_actions/landing_action
+/catkin_ws/devel/.private/hector_quadrotor_actions/lib/hector_quadrotor_actions/pose_action /catkin_ws/devel/lib/hector_quadrotor_actions/pose_action
+/catkin_ws/devel/.private/hector_quadrotor_actions/lib/pkgconfig/hector_quadrotor_actions.pc /catkin_ws/devel/lib/pkgconfig/hector_quadrotor_actions.pc
+/catkin_ws/devel/.private/hector_quadrotor_actions/share/hector_quadrotor_actions/cmake/hector_quadrotor_actionsConfig-version.cmake /catkin_ws/devel/share/hector_quadrotor_actions/cmake/hector_quadrotor_actionsConfig-version.cmake
+/catkin_ws/devel/.private/hector_quadrotor_actions/share/hector_quadrotor_actions/cmake/hector_quadrotor_actionsConfig.cmake /catkin_ws/devel/share/hector_quadrotor_actions/cmake/hector_quadrotor_actionsConfig.cmake

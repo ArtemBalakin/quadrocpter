@@ -1,0 +1,6 @@
+hector_quadrotor/hector_quadrotor_controllers
+/catkin_ws/devel/.private/hector_quadrotor_controllers/cmake.lock /catkin_ws/devel/./cmake.lock
+/catkin_ws/devel/.private/hector_quadrotor_controllers/lib/libhector_quadrotor_controllers.so /catkin_ws/devel/lib/libhector_quadrotor_controllers.so
+/catkin_ws/devel/.private/hector_quadrotor_controllers/lib/pkgconfig/hector_quadrotor_controllers.pc /catkin_ws/devel/lib/pkgconfig/hector_quadrotor_controllers.pc
+/catkin_ws/devel/.private/hector_quadrotor_controllers/share/hector_quadrotor_controllers/cmake/hector_quadrotor_controllersConfig-version.cmake /catkin_ws/devel/share/hector_quadrotor_controllers/cmake/hector_quadrotor_controllersConfig-version.cmake
+/catkin_ws/devel/.private/hector_quadrotor_controllers/share/hector_quadrotor_controllers/cmake/hector_quadrotor_controllersConfig.cmake /catkin_ws/devel/share/hector_quadrotor_controllers/cmake/hector_quadrotor_controllersConfig.cmake

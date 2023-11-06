@@ -1,0 +1,6 @@
+hector_quadrotor/hector_imu_attitude_to_tf
+/catkin_ws/devel/.private/hector_imu_attitude_to_tf/cmake.lock /catkin_ws/devel/./cmake.lock
+/catkin_ws/devel/.private/hector_imu_attitude_to_tf/lib/hector_imu_attitude_to_tf/imu_attitude_to_tf_node /catkin_ws/devel/lib/hector_imu_attitude_to_tf/imu_attitude_to_tf_node
+/catkin_ws/devel/.private/hector_imu_attitude_to_tf/lib/pkgconfig/hector_imu_attitude_to_tf.pc /catkin_ws/devel/lib/pkgconfig/hector_imu_attitude_to_tf.pc
+/catkin_ws/devel/.private/hector_imu_attitude_to_tf/share/hector_imu_attitude_to_tf/cmake/hector_imu_attitude_to_tfConfig-version.cmake /catkin_ws/devel/share/hector_imu_attitude_to_tf/cmake/hector_imu_attitude_to_tfConfig-version.cmake
+/catkin_ws/devel/.private/hector_imu_attitude_to_tf/share/hector_imu_attitude_to_tf/cmake/hector_imu_attitude_to_tfConfig.cmake /catkin_ws/devel/share/hector_imu_attitude_to_tf/cmake/hector_imu_attitude_to_tfConfig.cmake

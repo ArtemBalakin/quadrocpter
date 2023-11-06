@@ -1,0 +1,5 @@
+hector_quadrotor/hector_sensors_description
+/catkin_ws/devel/.private/hector_sensors_description/cmake.lock /catkin_ws/devel/./cmake.lock
+/catkin_ws/devel/.private/hector_sensors_description/lib/pkgconfig/hector_sensors_description.pc /catkin_ws/devel/lib/pkgconfig/hector_sensors_description.pc
+/catkin_ws/devel/.private/hector_sensors_description/share/hector_sensors_description/cmake/hector_sensors_descriptionConfig.cmake /catkin_ws/devel/share/hector_sensors_description/cmake/hector_sensors_descriptionConfig.cmake
+/catkin_ws/devel/.private/hector_sensors_description/share/hector_sensors_description/cmake/hector_sensors_descriptionConfig-version.cmake /catkin_ws/devel/share/hector_sensors_description/cmake/hector_sensors_descriptionConfig-version.cmake

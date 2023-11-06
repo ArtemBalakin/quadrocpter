@@ -1,0 +1,5 @@
+hector_quadrotor/hector_xacro_tools
+/catkin_ws/devel/.private/hector_xacro_tools/cmake.lock /catkin_ws/devel/./cmake.lock
+/catkin_ws/devel/.private/hector_xacro_tools/lib/pkgconfig/hector_xacro_tools.pc /catkin_ws/devel/lib/pkgconfig/hector_xacro_tools.pc
+/catkin_ws/devel/.private/hector_xacro_tools/share/hector_xacro_tools/cmake/hector_xacro_toolsConfig.cmake /catkin_ws/devel/share/hector_xacro_tools/cmake/hector_xacro_toolsConfig.cmake
+/catkin_ws/devel/.private/hector_xacro_tools/share/hector_xacro_tools/cmake/hector_xacro_toolsConfig-version.cmake /catkin_ws/devel/share/hector_xacro_tools/cmake/hector_xacro_toolsConfig-version.cmake

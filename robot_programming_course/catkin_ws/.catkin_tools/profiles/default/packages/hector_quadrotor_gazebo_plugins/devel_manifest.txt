@@ -1,0 +1,9 @@
+hector_quadrotor/hector_quadrotor_gazebo_plugins
+/catkin_ws/devel/.private/hector_quadrotor_gazebo_plugins/cmake.lock /catkin_ws/devel/./cmake.lock
+/catkin_ws/devel/.private/hector_quadrotor_gazebo_plugins/lib/libhector_gazebo_quadrotor_propulsion.so /catkin_ws/devel/lib/libhector_gazebo_quadrotor_propulsion.so
+/catkin_ws/devel/.private/hector_quadrotor_gazebo_plugins/lib/libhector_gazebo_quadrotor_aerodynamics.so /catkin_ws/devel/lib/libhector_gazebo_quadrotor_aerodynamics.so
+/catkin_ws/devel/.private/hector_quadrotor_gazebo_plugins/lib/libhector_gazebo_quadrotor_simple_controller.so /catkin_ws/devel/lib/libhector_gazebo_quadrotor_simple_controller.so
+/catkin_ws/devel/.private/hector_quadrotor_gazebo_plugins/lib/libhector_gazebo_ros_baro.so /catkin_ws/devel/lib/libhector_gazebo_ros_baro.so
+/catkin_ws/devel/.private/hector_quadrotor_gazebo_plugins/lib/pkgconfig/hector_quadrotor_gazebo_plugins.pc /catkin_ws/devel/lib/pkgconfig/hector_quadrotor_gazebo_plugins.pc
+/catkin_ws/devel/.private/hector_quadrotor_gazebo_plugins/share/hector_quadrotor_gazebo_plugins/cmake/hector_quadrotor_gazebo_pluginsConfig.cmake /catkin_ws/devel/share/hector_quadrotor_gazebo_plugins/cmake/hector_quadrotor_gazebo_pluginsConfig.cmake
+/catkin_ws/devel/.private/hector_quadrotor_gazebo_plugins/share/hector_quadrotor_gazebo_plugins/cmake/hector_quadrotor_gazebo_pluginsConfig-version.cmake /catkin_ws/devel/share/hector_quadrotor_gazebo_plugins/cmake/hector_quadrotor_gazebo_pluginsConfig-version.cmake

@@ -1,0 +1,5 @@
+hector_quadrotor/hector_quadrotor_description
+/catkin_ws/devel/.private/hector_quadrotor_description/cmake.lock /catkin_ws/devel/./cmake.lock
+/catkin_ws/devel/.private/hector_quadrotor_description/lib/pkgconfig/hector_quadrotor_description.pc /catkin_ws/devel/lib/pkgconfig/hector_quadrotor_description.pc
+/catkin_ws/devel/.private/hector_quadrotor_description/share/hector_quadrotor_description/cmake/hector_quadrotor_descriptionConfig-version.cmake /catkin_ws/devel/share/hector_quadrotor_description/cmake/hector_quadrotor_descriptionConfig-version.cmake
+/catkin_ws/devel/.private/hector_quadrotor_description/share/hector_quadrotor_description/cmake/hector_quadrotor_descriptionConfig.cmake /catkin_ws/devel/share/hector_quadrotor_description/cmake/hector_quadrotor_descriptionConfig.cmake

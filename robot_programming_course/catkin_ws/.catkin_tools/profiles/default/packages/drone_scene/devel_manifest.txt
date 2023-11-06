@@ -1,0 +1,5 @@
+drone_scene
+/catkin_ws/devel/.private/drone_scene/cmake.lock /catkin_ws/devel/./cmake.lock
+/catkin_ws/devel/.private/drone_scene/lib/pkgconfig/drone_scene.pc /catkin_ws/devel/lib/pkgconfig/drone_scene.pc
+/catkin_ws/devel/.private/drone_scene/share/drone_scene/cmake/drone_sceneConfig.cmake /catkin_ws/devel/share/drone_scene/cmake/drone_sceneConfig.cmake
+/catkin_ws/devel/.private/drone_scene/share/drone_scene/cmake/drone_sceneConfig-version.cmake /catkin_ws/devel/share/drone_scene/cmake/drone_sceneConfig-version.cmake

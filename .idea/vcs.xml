@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/robot_programming_course/catkin_ws/src/drone_scene/drone_scene" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/robot_programming_course/catkin_ws/src/hector_quadrotor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/robot_programming_course/docker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/robot_programming_course/materials" vcs="Git" />
+  </component>
+</project>

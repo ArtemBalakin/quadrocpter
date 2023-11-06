@@ -1,0 +1,8 @@
+hector_quadrotor/hector_pose_estimation
+/catkin_ws/devel/.private/hector_pose_estimation/cmake.lock /catkin_ws/devel/./cmake.lock
+/catkin_ws/devel/.private/hector_pose_estimation/lib/libhector_pose_estimation_node.so /catkin_ws/devel/lib/libhector_pose_estimation_node.so
+/catkin_ws/devel/.private/hector_pose_estimation/lib/libhector_pose_estimation_nodelet.so /catkin_ws/devel/lib/libhector_pose_estimation_nodelet.so
+/catkin_ws/devel/.private/hector_pose_estimation/lib/pkgconfig/hector_pose_estimation.pc /catkin_ws/devel/lib/pkgconfig/hector_pose_estimation.pc
+/catkin_ws/devel/.private/hector_pose_estimation/lib/hector_pose_estimation/pose_estimation /catkin_ws/devel/lib/hector_pose_estimation/pose_estimation
+/catkin_ws/devel/.private/hector_pose_estimation/share/hector_pose_estimation/cmake/hector_pose_estimationConfig-version.cmake /catkin_ws/devel/share/hector_pose_estimation/cmake/hector_pose_estimationConfig-version.cmake
+/catkin_ws/devel/.private/hector_pose_estimation/share/hector_pose_estimation/cmake/hector_pose_estimationConfig.cmake /catkin_ws/devel/share/hector_pose_estimation/cmake/hector_pose_estimationConfig.cmake

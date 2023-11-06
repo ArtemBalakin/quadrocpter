@@ -1,0 +1,7 @@
+hector_quadrotor/hector_quadrotor_model
+/catkin_ws/devel/.private/hector_quadrotor_model/cmake.lock /catkin_ws/devel/./cmake.lock
+/catkin_ws/devel/.private/hector_quadrotor_model/lib/libhector_quadrotor_propulsion.so /catkin_ws/devel/lib/libhector_quadrotor_propulsion.so
+/catkin_ws/devel/.private/hector_quadrotor_model/lib/libhector_quadrotor_aerodynamics.so /catkin_ws/devel/lib/libhector_quadrotor_aerodynamics.so
+/catkin_ws/devel/.private/hector_quadrotor_model/lib/pkgconfig/hector_quadrotor_model.pc /catkin_ws/devel/lib/pkgconfig/hector_quadrotor_model.pc
+/catkin_ws/devel/.private/hector_quadrotor_model/share/hector_quadrotor_model/cmake/hector_quadrotor_modelConfig-version.cmake /catkin_ws/devel/share/hector_quadrotor_model/cmake/hector_quadrotor_modelConfig-version.cmake
+/catkin_ws/devel/.private/hector_quadrotor_model/share/hector_quadrotor_model/cmake/hector_quadrotor_modelConfig.cmake /catkin_ws/devel/share/hector_quadrotor_model/cmake/hector_quadrotor_modelConfig.cmake
