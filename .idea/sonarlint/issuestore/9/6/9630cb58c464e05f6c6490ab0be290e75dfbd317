@@ -1,0 +1,7 @@
+
+xpython:S11921"[Define a constant instead of duplicating this literal "%s: '%s' when writing '%s'" 4 times.(®ãßßùÿÿÿÿ
+@python:S1080")Either remove or fill this block of code.(ã‘Û¾
+Dpython:S1481<"'Remove the unused local variable "end".(ìœÖüÿÿÿÿ
+@python:S108I")Either remove or fill this block of code.(ã‘Û¾
+Dpython:S1481V"'Remove the unused local variable "end".(ìœÖüÿÿÿÿ
+ppython:S1542\"SRename function "_get_struct_I" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÆØäÃùÿÿÿÿ

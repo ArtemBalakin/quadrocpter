@@ -1,0 +1,6 @@
+
+bpython:S1192("JDefine a constant instead of duplicating this literal 'float32[]' 3 times.(Ì³Î
+xpython:S1192q"[Define a constant instead of duplicating this literal "%s: '%s' when writing '%s'" 4 times.(®ãßßùÿÿÿÿ
+qpython:S1542‹"SRename function "_get_struct_I" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÆØäÃùÿÿÿÿ
+mpython:S1542"TRename function "_get_struct_2B" to match the regular expression ^[a-z_][a-z0-9_]*$.(ã¯†Ÿ
+rpython:S1542•"TRename function "_get_struct_3I" to match the regular expression ^[a-z_][a-z0-9_]*$.(«ØÓ´ÿÿÿÿÿ

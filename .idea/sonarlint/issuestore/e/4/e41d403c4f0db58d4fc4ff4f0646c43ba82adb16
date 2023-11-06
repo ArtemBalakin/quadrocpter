@@ -1,0 +1,5 @@
+
+xpython:S1192v"[Define a constant instead of duplicating this literal "%s: '%s' when writing '%s'" 4 times.(®ãßßùÿÿÿÿ
+qpython:S1542Ğ"SRename function "_get_struct_I" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÆØäÃùÿÿÿÿ
+mpython:S1542Ô"TRename function "_get_struct_3B" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ô«ÿ
+rpython:S1542Ú"TRename function "_get_struct_3I" to match the regular expression ^[a-z_][a-z0-9_]*$.(«ØÓ´ÿÿÿÿÿ

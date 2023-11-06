@@ -1,0 +1,11 @@
+
+ypython:S1192ˆ"[Define a constant instead of duplicating this literal "%s: '%s' when writing '%s'" 4 times.(®ãßßùÿÿÿÿ
+`python:S1192Å"GDefine a constant instead of duplicating this literal '<I%ss' 18 times.(çñƒü
+mpython:S3776¸"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(˜ß¸
+lpython:S3776‹"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(˜û
+lpython:S3776–"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(œÿÐ]
+rpython:S3776ê"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(¢¤¾ëüÿÿÿÿ
+qpython:S1542ö"SRename function "_get_struct_I" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÆØäÃùÿÿÿÿ
+rpython:S1542ú"TRename function "_get_struct_2I" to match the regular expression ^[a-z_][a-z0-9_]*$.(ëŠÑ¤ùÿÿÿÿ
+rpython:S1542€"TRename function "_get_struct_3I" to match the regular expression ^[a-z_][a-z0-9_]*$.(«ØÓ´ÿÿÿÿÿ
+lpython:S1542Œ"SRename function "_get_struct_B" to match the regular expression ^[a-z_][a-z0-9_]*$.(Û‰§±

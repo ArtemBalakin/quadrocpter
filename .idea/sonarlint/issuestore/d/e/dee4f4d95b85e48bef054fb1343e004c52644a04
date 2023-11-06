@@ -1,0 +1,8 @@
+
+6python:S125"Remove this commented out code.(òÎˆ
+lpython:S1163"PRename this field "tfBuffer" to match the regular expression ^[_a-z][_a-z0-9]*$.(…¾üÿÿÿÿ
+Ppython:S1481…"2Replace unused local variable "red_pose" with "_".(‹Ú½½úÿÿÿÿ
+Epython:S1481Ì",Remove the unused local variable "response".(»×™Æ
+rpython:S3776Ğ"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(¥®ƒ°ùÿÿÿÿ
+5python:S2772ú"Remove this unneeded "pass".(ã‘Û¾
+Apython:S108ü")Either remove or fill this block of code.(ã‘Û¾
